@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+/*body {*/
+/*    background: rgb(29,78,216);*/
+/*    background: linear-gradient(90deg, rgba(29,78,216,1) 0%, rgba(67,56,202,1) 100%);*/
+/*}*/
+
+/*background: rgb(14,116,144);*/
+/*background: linear-gradient(90deg, rgba(14,116,144,1) 0%, rgba(29,78,216,1) 100%);*/
+
+/*background-image: url("../src/assets/umbraella.jpg");*/
+/*background-position: center;*/
+/*background-size: cover;*/
+/*background-repeat: no-repeat;*/
